@@ -1902,8 +1902,8 @@ footer {
         position: relative;
         height: 200vw;
         width: 200vw;
-        margin-top: -91vh;
-        margin-left: 0vw;
+        margin-top: -77vh;
+        margin-left: -5vw;
         /* background-color: violet; */
         /* padding-left: 2vw; */
         /* padding-left: -15vw; */
@@ -1992,7 +1992,7 @@ footer {
     #image5 {
         top: 1%;
         left: 80%;
-        height: 30vw;
+        height: 33vw;
         rotate: 180deg;
     }
 
@@ -2000,13 +2000,13 @@ footer {
         top: 38%;
         left: 100%;
         rotate: 230deg;
-        height: 27vw;
+        height: 33vw;
     }
 
     #image7 {
         top: 70%;
         left: 90%;
-        height: 32vw;
+        height: 37vw;
         rotate: -90deg;
     }
 
@@ -2014,7 +2014,7 @@ footer {
         top: 97%;
         left: 52%;
         rotate: -42deg;
-        height: 22vw;
+        height: 27vw;
     }
 
     .button {
