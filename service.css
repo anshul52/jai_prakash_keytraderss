@@ -25,6 +25,7 @@ body {
     width: 100%;
     font-family: g-r;
     user-select: none;
+    /* pointer-events: none; */
 }
 
 /* ----------------nav------------------- */
@@ -920,7 +921,7 @@ footer {
     .pg {
         display: flex;
         flex-direction: column;
-        height: 50vh;
+        height: 53vh;
         width: 100%;
         /* border-bottom: 2px solid #606060; */
         background-color: #B8C2FF;
@@ -938,7 +939,7 @@ footer {
     }
     .leftc p {
         margin-top: 2vw;
-        font-size: 2.7vw;
+        font-size: 3.5vw;
         font-weight: 600;
     }
     .leftc button{
