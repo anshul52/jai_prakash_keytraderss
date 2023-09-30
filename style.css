@@ -1965,25 +1965,25 @@ footer {
     #image1 {
         top: 84%;
         left: 17%;
-        height: 15vh;
+        height: 13vh;
     }
 
     #image2 {
-        height: 15vh;
+        height: 13vh;
         top: 50%;
         left: -3%;
         rotate: 45deg;
     }
 
     #image3 {
-        height: 15vh;
+        height: 13vh;
         top: 7%;
         left: 7%;
         rotate: 95deg;
     }
 
     #image4 {
-        height: 16vh;
+        height: 13vh;
         top: -6%;
         left: 40%;
         rotate: 140deg;
@@ -2000,7 +2000,7 @@ footer {
         top: 38%;
         left: 100%;
         rotate: 230deg;
-        height: 33vw;
+        height: 31vw;
     }
 
     #image7 {
@@ -2014,7 +2014,7 @@ footer {
         top: 97%;
         left: 52%;
         rotate: -42deg;
-        height: 27vw;
+        height: 25vw;
     }
 
     .button {
