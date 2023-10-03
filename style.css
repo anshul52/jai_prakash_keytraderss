@@ -59,7 +59,7 @@ body {
     font-family: g-b;
     letter-spacing: -1px;
     /* w */
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     margin-left: 1vw;
     letter-spacing: -.0.7vw;
 }
@@ -1540,7 +1540,7 @@ footer {
         font-family: g-b;
         letter-spacing: -1px;
         /* w */
-        text-transform: uppercase;
+        /* text-transform: uppercase; */
         margin-left: 1vw;
         letter-spacing: -.0.7vw;
     }
